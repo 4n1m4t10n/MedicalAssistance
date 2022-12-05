@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iomanip>
 #include <fstream>
+#include <sstream>
+#include <string>
 #include <chrono>
 #include "hospitalList.h"
 using namespace std;
